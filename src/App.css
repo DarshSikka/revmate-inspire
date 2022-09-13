@@ -1,0 +1,46 @@
+.lol {
+  text-align: center;
+}
+tr{
+    background-color:white;
+}
+tr:nth-child(even){background-color: orange;}
+ tr:hover {background-color: orange;}
+ #header{
+     background-color:green;
+ }
+ table{
+   width:100%;
+ }
+.right{
+        text-align:right
+      }
+.signup{
+  display: flex;
+  flex-direction:column;
+  justify-items:space-around;
+  align-items:center;
+}
+.forminput{
+  width:500px;
+  height:50px;
+  margin-top:40px;
+  font-size:20px;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+

@@ -1,0 +1,21 @@
+.navbar{
+  display:flex;
+  justify-content:space-around;
+  background:rgb(14, 37, 97);
+  height:100px ;
+  position: sticky;
+
+a {
+  padding: 3px 3px;
+  text-decoration: none;
+  color:rgb(236, 236, 236);
+  font-size: 20px;
+  margin-block-start:30px;
+
+}
+
+a:hover {
+  color: rgb(192, 129, 35);
+ 
+}
+}

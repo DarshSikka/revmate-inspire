@@ -1,0 +1,20 @@
+.newdic{
+  padding: 15px 20px;
+  background: #2977f5;
+  color: #fff;
+  border: none;
+  border-radius: 30px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  margin-block-end: 3rem;
+  width: 200px;
+  margin-block-start: 30px;
+}
+.list{
+  display: flex;
+color: rgb(212, 212, 212);
+border-radius: 25px;
+background: rgb(19, 59, 119);
+margin: 20px;
+border: none;
+}

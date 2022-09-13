@@ -1,0 +1,10 @@
+.pub{
+  display: flex;
+  flex-direction:column;
+}
+.pub button{
+  background-color:rgb(46, 27, 216);
+
+  font-size:20px;
+  color: white;
+}

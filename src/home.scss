@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+#app{
+  font-family:'Roboto', 'sans-serif';
+}
+.revHead{
+text-align:left;
+color: rgb(110, 18, 79);
+margin-block-start: 40p;
+margin: 50px;
+font-size: 30px;
+font-family: 'Roboto', sans-serif;
+}
+.bodyText{
+display:flex;
+text-align: left;
+margin: 50px ;
+line-height: 40px;
+font-family: 'Roboto', sans-serif;
+}
+p{
+  width:600px;
+}
+div[flexbox]{
+  display:flex;
+}
+.homeImage{
+  position: relative;
+  bottom:50px;
+}
